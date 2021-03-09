@@ -33,7 +33,7 @@ type(result) # output - <class 'int'>
 
 # They are also immutable.
 my_name = 'Narciso'
-my_name[0] = 'Z' # TypeError: 'str' object does not support item assignment
+# my_name[0] = 'Z' # TypeError: 'str' object does not support item assignment
 
 # Each character in a string can be referenced by its index.
 word = 'Python is an interpreted language'
@@ -70,10 +70,10 @@ print('*'*100)
 # Compound datatypes
 # Lists, Dictionaries, Tuples, Sets
 
-Lists are bookended by square brackets []
-Dictionaries are bookended by {} AND they have key-value pairs.
-Tuples are bookended by parentheses () and they are immutable.
-Sets are bookended by curly braces {} and they are immutable and disallow duplication of values.
+# Lists are bookended by square brackets []
+# Dictionaries are bookended by {} AND they have key-value pairs.
+# Tuples are bookended by parentheses () and they are immutable.
+# Sets are bookended by curly braces {} and they are immutable and disallow duplication of values.
 
 # Concatenate lists
 
@@ -81,16 +81,16 @@ Sets are bookended by curly braces {} and they are immutable and disallow duplic
 
 # print(my_list + [5, 6, 7])
 
-# students = [
-#     {
-#         'name': 'Jagdeep Singh',
-#         'class': 'Python Stack'
-#     },
-#     {
-#         'name': 'Nathan Bludworth',
-#         'class': 'MERN Stack'
-#     }
-# ] 
+students = [
+    {
+        'name': 'Jagdeep Singh',
+        'class': 'Python Stack'
+    },
+    {
+        'name': 'Nathan Bludworth',
+        'class': 'MERN Stack'
+    }
+] 
 
 for student in students:
     print(student['name'])
