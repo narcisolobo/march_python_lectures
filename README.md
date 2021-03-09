@@ -13,5 +13,5 @@ This is the github repository for all the lectures I've given in class for the *
 ## Lecture Notes
 1. [Week 1, Day 1: Afternoon Lecture](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d1_afternoon_python_intro.py)
     - Python Introduction (Datatypes, For-In Loops, Conditionals)
-2. Week 1, Day 2: Morning Lecture
+2. [Week 1, Day 2: Morning Lecture](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d2_morning_loops.py)
     - Python Loops (Deeper Dive)
