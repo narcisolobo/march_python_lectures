@@ -5,7 +5,5 @@ def reverse_string(str):
         reversed += str[i]
     return reversed
 
-print(reverse_string('Welcome to Python!'))
-
 # In Python there are three different types of numbers:
 # Integers, Floats, Complex
