@@ -9,6 +9,9 @@ This is the github repository for all the lectures I've given in class for the *
 2. **Parens Valid**
     1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d2_parensValid.js)
     2. [Python Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d2_parens_valid.py)
+3. **Is Palindrome**
+    1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d3_isPalindrome.js)
+    2. [Python Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d3_is_palidrome.py)
 
 ## Lecture Notes
 1. Week 1, Day 1:
