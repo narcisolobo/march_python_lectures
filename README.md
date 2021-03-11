@@ -12,6 +12,9 @@ This is the github repository for all the lectures I've given in class for the *
 3. **Is Palindrome**
     1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d3_isPalindrome.js)
     2. [Python Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d3_is_palidrome.py)
+4. **Acronym**
+    1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d4_acronyms.js)
+    2. [Python Solution - DOES NOT WORK](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d4_acronyms.py)
 
 ## Lecture Notes
 1. Week 1, Day 1:
@@ -19,3 +22,8 @@ This is the github repository for all the lectures I've given in class for the *
 2. Week 1, Day 2:
     - [Morning Lecture - Python Loops (Deeper Dive)](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d2_am_loops.py)
     - [Afternoon Lecture - Python Functions](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d2_pm_functions.py)
+3. Week 1, Day 3:
+    - Morning Lecture - OOP (notes coming)
+    - Afternoon Activity - RPG Game (notes coming)
+4. Week 1, Day 4:
+    - [Morning Lecture - Virtual Environments and Flask](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d4_am_venv_flask.py)
