@@ -1,1 +1,4 @@
-*.pyc
+algos/w1d1_reverse_string.pyc
+
+lectures/templates
+lectures/template_lecture.py
