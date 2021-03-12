@@ -15,6 +15,9 @@ This is the github repository for all the lectures I've given in class for the *
 4. **Acronym**
     1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d4_acronyms.js)
     2. [Python Solution - DOES NOT WORK](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d4_acronyms.py)
+5. **Generate Coin Change**
+    1. [JavaScript Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d5_coinChange.js)
+    2. [Python Solution](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/w1d5_coin_change.py)
 
 ## Lecture Notes
 1. Week 1, Day 1:
@@ -27,3 +30,5 @@ This is the github repository for all the lectures I've given in class for the *
     - Afternoon Activity - RPG Game (notes coming)
 4. Week 1, Day 4:
     - [Morning Lecture - Virtual Environments and Flask](https://github.com/narcisolobo/march_python_lectures/blob/main/lectures/w1d4_am_venv_flask.py)
+5. Week 1, Day 5:
+    - [Final Flask Lecture](https://github.com/narcisolobo/march_python_lectures/tree/main/lectures/superheroes)
