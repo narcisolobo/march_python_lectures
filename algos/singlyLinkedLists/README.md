@@ -2,9 +2,9 @@
 
 A linked list is a data structure to represent a sequence of items, but without using an array. It uses objects that are linked together in a particular order.
 
-Used widely in backends, frameworks, runtimes and operating systems.
+Linked lists are used widely in backends, frameworks, runtimes and operating systems.
 
-How does your operating system keeps track of the files in a directory? Modern systems do not do this with an array. They use a data structure called a linked list. Linked lists are easily reordered and well-suited for large data collections because (unlike arrays) they store data in small pieces of memory that “fit in the holes” between variables, rather than requiring a large chunk of contiguous memory. Linked lists are the first data structure we discuss as an object; they use references.
+How does your operating system keep track of the files in a directory? Modern systems do not do this with an array. They use a data structure called a linked list. Linked lists are easily reordered and well-suited for large data collections because (unlike arrays) they store data in small pieces of memory that “fit in the holes” between variables, rather than requiring a large chunk of contiguous memory. Linked lists are the first data structure we discuss as an object; they use references.
 
 Linked lists provide a way to store a large amount of information without forcing the runtime to find a large contiguous chunk of memory (as arrays do). Indeed, a linked list of 1000 pieces of information could use 1000 small spaces in memory. Like an array, they keep information in a certain order. However, unlike arrays, you need not relocate everything in order to add a value to the middle! Linked lists introduce the reference concept – essentially, storing the location of the variable, instead of its value. This reference is ‘just another’ attribute in the node object that can be compared, set, etc.
 
