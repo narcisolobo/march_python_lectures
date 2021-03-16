@@ -77,10 +77,12 @@ class SinglyLinkedList {
             let runner = this.head;
             while (runner) {
                 if (runner.val === val) {
+                    console.log("Value found.")
                     return true;
                 }
                 runner = runner.next;
             }
+            console.log("Value not found.")
             return false;
         }
     }
