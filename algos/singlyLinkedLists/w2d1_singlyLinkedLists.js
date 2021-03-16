@@ -85,9 +85,3 @@ class SinglyLinkedList {
         }
     }
 }
-
-let mySll = new SinglyLinkedList();
-console.log(mySll);
-
-mySll.addFront(5).addFront(7).addFront(6).addFront(8);
-mySll.addBack(3).addBack(0).addBack(9).printVals();
