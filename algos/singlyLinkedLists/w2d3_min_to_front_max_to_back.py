@@ -1,4 +1,4 @@
-# Day 2
+# Day 3
 import random
 
 class Node:
