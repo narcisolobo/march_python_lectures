@@ -11,3 +11,7 @@
 3. **Day 3** - Min to front and max to back.
     - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d3_minToFront_maxToBack.js)
     - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d3_min_to_front_max_to_back.py)
+
+4. **Day 4** - Prepend value and append value.
+    - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d4_appendVal_prependVal.js)
+    - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d4_append_val_prepend_val.py)
