@@ -15,3 +15,7 @@
 4. **Day 4** - Prepend value and append value.
     - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d4_appendVal_prependVal.js)
     - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d4_append_val_prepend_val.py)
+
+5. **Day 5** - Remove negatives, Second-to-last value, and partition.
+    - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d5_removeNeg_2ndToLast_Partition.js)
+    - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/singlyLinkedLists/w2d5_remove_neg_2nd_to_last_partition.py)
