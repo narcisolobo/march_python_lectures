@@ -100,6 +100,3 @@ class SLQueue:
     def get_size(self):
         print(self.size)
         return self.size
-
-mySLQ = SLQueue()
-mySLQ.populate_random(300, 10).enqueue(34).populate_random(300, 10).print_vals().contains(34)
