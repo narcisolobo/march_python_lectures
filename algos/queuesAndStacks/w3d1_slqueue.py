@@ -96,8 +96,8 @@ class SLQueue:
             return False
 
     # SLQueue: Return Size
-    # Create SLQueue method getSize() to return the number of values in the queue.
-    def getSize(self):
+    # Create SLQueue method get_size() to return the number of values in the queue.
+    def get_size(self):
         print(self.size)
         return self.size
 
