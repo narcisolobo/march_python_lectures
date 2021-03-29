@@ -11,3 +11,7 @@
 3. **Day 3** - The stack data structure, as implemented with singly linked lists. The methods are: push, pop, peek (or top), contains, is empty, and size.
     - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/queuesAndStacks/w3d3_slStacks.js)
     - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/queuesAndStacks/w3d3_sl_stacks.py)
+
+4. **Day 4** - The queue data structure, as implemented with two stacks, also known as a Two Stack Queue. The methods are: enqueue, dequeue, peek (or front), contains, is empty, and print values.
+    - [JavaScript](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/queuesAndStacks/w4d1_twoStackQ.js)
+    - [Python](https://github.com/narcisolobo/march_python_lectures/blob/main/algos/queuesAndStacks/w4d1_two_stackq.py)
