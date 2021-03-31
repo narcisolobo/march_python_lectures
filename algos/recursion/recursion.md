@@ -1,4 +1,4 @@
-# This chapter covers recursion and dynamic programming.
+# Recursion and Dynamic Programming.
 Recursion occurs when a function calls itself. Dynamic programming is more general: breaking large problems into smaller, more solvable ones.
 
 Let's consider an example: "I'm thinking of an integer between 1 and 120. Guess it." If you were to guess '61', and I said "nope, that's too high," then how would you respond? You would treat this exactly as if we had just started and I had said "I'm thinking of an integer between 1 and 60." In doing this, you reframed the problem as a less complex one, a technique called dynamic programming.
